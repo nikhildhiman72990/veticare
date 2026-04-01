@@ -17,7 +17,7 @@ VetCare is a comprehensive pet healthcare platform specifically designed to brid
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP, Python (for machine learning predictions)
 - **Database:** MySQL
-- **Storage:** Supabase
+- **Storage:** localhost{ xampp server }
 - **AI/ML:** Python (Jupyter Notebook & Flask for Animal Disease Prediction)
 
 ## 🚀 Installation Steps
