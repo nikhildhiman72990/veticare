@@ -1,26 +1,26 @@
 # VetCare – Pet Healthcare Platform
 
-## 📌 Problem Statement
+##  Problem Statement
 Rural and remote areas often lack immediate access to quality veterinary care, resulting in poor health outcomes for pets and livestock. Pet owners struggle to find nearby clinics, maintain proper health records, and access critical healthcare resources efficiently.
 
-## 💡 Solution Overview
+##  Solution Overview
 VetCare is a comprehensive pet healthcare platform specifically designed to bridge the gap in rural pet healthcare support. It provides an intuitive interface for pet owners to manage their pets' health records, locate nearby veterinary services, and access necessary resources seamlessly.
 
-## ✨ Features
+##  Features
 - **User Authentication:** Secure login and registration for pet owners and administrators.
 - **Pet Records Management:** Add, update, and track detailed health records for pets.
 - **Veterinary Search:** Easily locate and connect with nearby veterinary clinics and professionals.
 - **Cloud Storage Integration:** Uses Supabase storage for secure and reliable management of pet images and medical documents.
 - **Admin Panel:** Centralized dashboard for managing users, pets, and platform data.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP, Python (for machine learning predictions)
 - **Database:** MySQL
 - **Storage:** localhost{ xampp server }
 - **AI/ML:** Python (Jupyter Notebook & Flask for Animal Disease Prediction)
 
-## 🚀 Installation Steps
+##  Installation Steps
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/nikhildhiman72990/veticare.git
@@ -44,7 +44,7 @@ VetCare is a comprehensive pet healthcare platform specifically designed to brid
    pip install -r requirements.txt
    ```
 
-## ⚙️ How to Run Project
+##  How to Run Project
 1. **Start the PHP Server:**
    - You can use XAMPP, WAMP, or run the built-in PHP server:
      ```bash
@@ -58,7 +58,7 @@ VetCare is a comprehensive pet healthcare platform specifically designed to brid
    ```
    - Make sure your Python Flask app is running simultaneously to enable AI features.
 
-## 📂 Folder Structure
+## Folder Structure
 ```
 veticare/
 │── assets/              # Images, CSS, and JS files
@@ -73,7 +73,7 @@ veticare/
 └── .gitignore           # Git ignore rules
 ```
 
-## 📸 Screenshots
+##  Screenshots
 
 | Home Page | Dashboard |
 | :---: | :---: |
@@ -83,11 +83,11 @@ veticare/
 | :---: | :---: |
 | ![Pet Profile](screenshots/pet-profile.png) | ![Admin Panel](screenshots/admin-panel.png) |
 
-## 🌟 Future Improvements
+##  Future Improvements
 - Mobile application development (React Native/Flutter).
 - Tele-consultation features with secure video calls.
 - AI-driven diet and care recommendations for diverse pet breeds.
 - Multilingual support for better rural outreach.
 
-## 👥 Author
+##  Author
 **Nikhil Dhiman**
